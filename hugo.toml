@@ -1,0 +1,18 @@
+baseURL = 'https://wueww.github.io/playground/'
+languageCode = 'de-de'
+title = 'Würzburg Web Week Playground'
+theme = 'mediumish'
+summaryLength = 25
+
+
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/playground/blog"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 200
+    url = "/playground/static/imprint"
+
